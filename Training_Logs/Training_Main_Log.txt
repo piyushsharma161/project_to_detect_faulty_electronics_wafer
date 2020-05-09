@@ -1,0 +1,84 @@
+2020-04-29/23:09:36		Start of Validation on files!!
+2020-04-29/23:09:43		Raw Data Validation Complete!!
+2020-04-29/23:09:43		Starting Data Transforamtion!!
+2020-04-29/23:09:48		DataTransformation Completed!!!
+2020-04-29/23:09:48		Creating Training_Database and tables on the basis of given schema!!!
+2020-04-29/23:09:56		Table creation Completed!!
+2020-04-29/23:09:56		Insertion of Data into Table started!!!!
+2020-04-29/23:10:09		Insertion in Table completed!!!
+2020-04-29/23:10:09		Deleting Good Data Folder!!!
+2020-04-29/23:10:09		Good_Data folder deleted!!!
+2020-04-29/23:10:09		Moving bad files to Archive and deleting Bad_Data folder!!!
+2020-04-29/23:10:09		Bad files moved to archive!! Bad folder Deleted!!
+2020-04-29/23:10:09		Validation Operation completed!!
+2020-04-29/23:10:09		Extracting csv file from table
+2020-05-06/19:34:48		Start of Validation on files!!
+2020-05-06/19:34:53		Raw Data Validation Complete!!
+2020-05-06/19:34:53		Starting Data Transforamtion!!
+2020-05-06/19:34:58		DataTransformation Completed!!!
+2020-05-06/19:34:58		Creating Training_Database and tables on the basis of given schema!!!
+2020-05-06/19:34:58		Table creation Completed!!
+2020-05-06/19:34:58		Insertion of Data into Table started!!!!
+2020-05-06/19:35:06		Insertion in Table completed!!!
+2020-05-06/19:35:06		Deleting Good Data Folder!!!
+2020-05-06/19:35:06		Good_Data folder deleted!!!
+2020-05-06/19:35:06		Moving bad files to Archive and deleting Bad_Data folder!!!
+2020-05-06/19:35:07		Bad files moved to archive!! Bad folder Deleted!!
+2020-05-06/19:35:07		Validation Operation completed!!
+2020-05-06/19:35:07		Extracting csv file from table
+2020-05-06/20:41:57		Start of Validation on files!!
+2020-05-06/20:42:05		Raw Data Validation Complete!!
+2020-05-06/20:42:05		Starting Data Transforamtion!!
+2020-05-06/20:42:14		DataTransformation Completed!!!
+2020-05-06/20:42:14		Creating Training_Database and tables on the basis of given schema!!!
+2020-05-06/20:42:14		Table creation Completed!!
+2020-05-06/20:42:14		Insertion of Data into Table started!!!!
+2020-05-06/20:42:24		Insertion in Table completed!!!
+2020-05-06/20:42:24		Deleting Good Data Folder!!!
+2020-05-06/20:42:24		Good_Data folder deleted!!!
+2020-05-06/20:42:24		Moving bad files to Archive and deleting Bad_Data folder!!!
+2020-05-06/20:42:24		Bad files moved to archive!! Bad folder Deleted!!
+2020-05-06/20:42:24		Validation Operation completed!!
+2020-05-06/20:42:24		Extracting csv file from table
+2020-05-06/21:08:45		Start of Validation on files!!
+2020-05-06/21:08:51		Raw Data Validation Complete!!
+2020-05-06/21:08:51		Starting Data Transforamtion!!
+2020-05-06/21:08:56		DataTransformation Completed!!!
+2020-05-06/21:08:56		Creating Training_Database and tables on the basis of given schema!!!
+2020-05-06/21:08:56		Table creation Completed!!
+2020-05-06/21:08:56		Insertion of Data into Table started!!!!
+2020-05-06/21:09:05		Insertion in Table completed!!!
+2020-05-06/21:09:05		Deleting Good Data Folder!!!
+2020-05-06/21:09:05		Good_Data folder deleted!!!
+2020-05-06/21:09:05		Moving bad files to Archive and deleting Bad_Data folder!!!
+2020-05-06/21:09:06		Bad files moved to archive!! Bad folder Deleted!!
+2020-05-06/21:09:06		Validation Operation completed!!
+2020-05-06/21:09:06		Extracting csv file from table
+2020-05-06/22:40:44		Start of Validation on files!!
+2020-05-06/22:40:48		Raw Data Validation Complete!!
+2020-05-06/22:40:48		Starting Data Transforamtion!!
+2020-05-06/22:40:52		DataTransformation Completed!!!
+2020-05-06/22:40:52		Creating Training_Database and tables on the basis of given schema!!!
+2020-05-06/22:40:52		Table creation Completed!!
+2020-05-06/22:40:52		Insertion of Data into Table started!!!!
+2020-05-06/22:41:00		Insertion in Table completed!!!
+2020-05-06/22:41:00		Deleting Good Data Folder!!!
+2020-05-06/22:41:00		Good_Data folder deleted!!!
+2020-05-06/22:41:00		Moving bad files to Archive and deleting Bad_Data folder!!!
+2020-05-06/22:41:00		Bad files moved to archive!! Bad folder Deleted!!
+2020-05-06/22:41:00		Validation Operation completed!!
+2020-05-06/22:41:00		Extracting csv file from table
+2020-05-06/23:44:14		Start of Validation on files!!
+2020-05-06/23:44:21		Raw Data Validation Complete!!
+2020-05-06/23:44:21		Starting Data Transforamtion!!
+2020-05-06/23:44:29		DataTransformation Completed!!!
+2020-05-06/23:44:29		Creating Training_Database and tables on the basis of given schema!!!
+2020-05-06/23:44:29		Table creation Completed!!
+2020-05-06/23:44:29		Insertion of Data into Table started!!!!
+2020-05-06/23:44:40		Insertion in Table completed!!!
+2020-05-06/23:44:40		Deleting Good Data Folder!!!
+2020-05-06/23:44:40		Good_Data folder deleted!!!
+2020-05-06/23:44:40		Moving bad files to Archive and deleting Bad_Data folder!!!
+2020-05-06/23:44:40		Bad files moved to archive!! Bad folder Deleted!!
+2020-05-06/23:44:40		Validation Operation completed!!
+2020-05-06/23:44:40		Extracting csv file from table
